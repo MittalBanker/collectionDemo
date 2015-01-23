@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  CollectionViewCustom
+//
+//  Created by Mittal J. Banker on 1/23/15.
+//  Copyright (c) 2015 digicorp. All rights reserved.
+//
+
+#ifndef CollectionViewCustom_PrefixHeader_pch
+#define CollectionViewCustom_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Constants.h"
+#endif
